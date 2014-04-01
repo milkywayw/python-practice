@@ -1,4 +1,0 @@
-python-practice
-===============
-
-Python practice
